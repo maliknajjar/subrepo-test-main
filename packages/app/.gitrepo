@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:maliknajjar/subrepo-test-sub.git
 	branch = main
-	commit = fe6d0eb4a9feb9d23fb69d9438245efb0ddefe40
+	commit = 88f906d72244ee4f3f728eb8300b23c597e2c551
 	method = merge
 	cmdver = 0.4.9
-	parent = c7efe32ac3d092d51cec0a45d216c9fbaf5c518f
+	parent = a42badc78d720226fe13cbecbacf859f1e2b9fcb
