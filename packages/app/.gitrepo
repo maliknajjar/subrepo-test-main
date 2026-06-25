@@ -4,7 +4,7 @@
 ; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
 ;
 [subrepo]
-	remote = /tmp/claude-1000/-home-malik-Desktop-test/8c270d2a-554b-4a2a-bf84-56b89248d67e/scratchpad/app-remote.git
+	remote = git@github.com:maliknajjar/subrepo-test-sub.git
 	branch = main
 	commit = fe6d0eb4a9feb9d23fb69d9438245efb0ddefe40
 	method = merge
