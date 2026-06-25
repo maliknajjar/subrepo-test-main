@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = /tmp/claude-1000/-home-malik-Desktop-test/8c270d2a-554b-4a2a-bf84-56b89248d67e/scratchpad/app-remote.git
+	branch = main
+	commit = 
+	method = merge
+	cmdver = 0.4.9
